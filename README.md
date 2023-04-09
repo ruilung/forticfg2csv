@@ -1,2 +1,6 @@
 # forticfg2csv
-export forti fw config to csv file
+export from forti fw config to a csv file
+
+sample
+------
+python3 forticfg2csv fw_cfg_2000-01-02.cfg
